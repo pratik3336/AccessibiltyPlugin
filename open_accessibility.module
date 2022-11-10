@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @file
+ * Contains open_accessibility.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function open_accessibility_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the open_accessibility module.
+    case 'help.page.open_accessibility':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('This module helps user to access the basic accessibility for the website. It was completely open source code taken from the Jossef Harush Kadouri\'s Open Accessibility codes(https://github.com/jossef/open-accessibility). Free accessibility tools menu for website maintainers powered by jQuery.') . '</p>';
+      return $output;
+  }
+}

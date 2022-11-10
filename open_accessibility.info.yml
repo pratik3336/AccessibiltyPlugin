@@ -1,0 +1,11 @@
+name: 'Open Accessibility'
+description: 'Extends the Open Accessibility Javascript plugin to add simple accessibility to the website.'
+core_version_requirement: ^8 || ^9 || ^10
+package: Accessibility
+type: module
+configure: open_accessibility.settings
+
+# Information added by Drupal.org packaging script on 2022-07-06
+version: '2.0.0'
+project: 'open_accessibility'
+datestamp: 1657094574

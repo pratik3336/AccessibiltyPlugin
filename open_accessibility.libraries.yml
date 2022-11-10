@@ -1,0 +1,9 @@
+open-accessibility:
+  css:
+    theme:
+      css/open-accessibility.min.css: {}
+  js:
+    js/open-accessibility.min.js: { minified: true, scope: header }
+    js/open-accessibility-settings.js: { scope: footer }
+  dependencies:
+    - core/jquery

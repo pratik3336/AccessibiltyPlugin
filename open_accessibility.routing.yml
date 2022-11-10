@@ -1,0 +1,9 @@
+open_accessibility.settings:
+  path: '/admin/config/user-interface/open-accessibility'
+  defaults:
+    _form: '\Drupal\open_accessibility\Form\OpenAccessibilityConfigForm'
+    _title: 'Open Accessibility Config'
+  requirements:
+    _permission: 'configure open accessibility'
+  options:
+    _admin_route: TRUE

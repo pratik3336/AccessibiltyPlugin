@@ -1,0 +1,4 @@
+menu_opened: true
+mobile_enabled: true
+text_selector: 'body,h1,h2,h3,h4,p,div,span'
+icon_size: 'm'

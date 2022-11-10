@@ -1,0 +1,5 @@
+open_accessibility.configuration:
+  title: 'Open Accessibility'
+  route_name: 'open_accessibility.settings'
+  parent: system.admin_config_ui
+  weight: -5
