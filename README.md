@@ -1,8 +1,8 @@
 # AccessibiltyPlugin
  
-Aim - To design a Plugin that adds new functions to THE ET IITB website without altering the host program itself. The aim is to improve the website’s accessibility overall. This helps in making website more custoimizable by for exmample -
+Aim - To design a Plugin that adds new functions to THE ET IITB website without altering the host program itself. The aim is to improve the website’s accessibility overall. This helps in making website more customizable by for example -
 1- An older, visually challenged person adds extra contrast. Someone who is photosensitive provides a lower contrast.
-2- A visually challenged with low visual acuity makes the font larger. Someone with tunnel vision makes the fonts smaller.
+2- A visually challenged with low visual power makes the font larger. Someone with tunnel vision makes the fonts smaller.
 3- Someone with dyslexia uses a diffrent font, while the rest of the users see a normal font.
 4- Older people choose the simplified, alternative version with a simple UI. Young people view the standard, modern version
 
@@ -23,8 +23,8 @@ Features -
 
 How to install - (For drupal)
 1) Install module using composer or normal way
-2) Configure the settings for Open Accessibility
-   /admin/config/user-interface/open-accessibility
+2) Configure the settings for  AccessibilityPlugin
+   /admin/config/user-interface/AccessibilityPlugin
 3) Provide permission for the access configuration page
 4) Place the Open Accessibility Block into your region.
 
