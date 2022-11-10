@@ -1,9 +1,13 @@
 # AccessibiltyPlugin
  
 Aim - To design a Plugin that adds new functions to THE ET IITB website without altering the host program itself. The aim is to improve the website’s accessibility overall. This helps in making website more customizable by for example -
+
 1- An older, visually challenged person adds extra contrast. Someone who is photosensitive provides a lower contrast.
+
 2- A visually challenged with low visual power makes the font larger. Someone with tunnel vision makes the fonts smaller.
+
 3- Someone with dyslexia uses a diffrent font, while the rest of the users see a normal font.
+
 4- Older people choose the simplified, alternative version with a simple UI. Young people view the standard, modern version
 
 
@@ -13,11 +17,17 @@ Languages Used - HTML,CSS,JAVA,JAVASCRIPT,PHP
 
 This provides a plugin widget which becomes the go-to option for any accessibility functions to test and implement. It has 6 different features all in one option. It ensures that all of the potential users, including people with disabilities, have a decent user experience and are able to easily access their information and also improving the usability of the site for all users.
 Features - 
+
 (1) Zoom In Zoom Out - This provides a Zoom in and Zoom out feature for the website page.
+
 (2) Bigger Mouse Cursor
+
 (3) Invert the current Colour Theme of Website
+
 (4) Change Brightness of the website screen
+
 (5) Greyscale the screen
+
 (6) Undo All Changes -Undo all changes applied on the website page
 
 
