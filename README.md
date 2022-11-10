@@ -48,10 +48,13 @@ Langual support -
 In order to use other language add the locale script file right after the open-accessibility.babel libary.
 
 <script src="dist/open-accessibility.min.js"></script>
+
 <script src="dist/locale.min.js"></script>
+
 and use localization property in configuration to set the primary language
 
 localization: ['en']
+
 You may want to extend the locale.json file, or the $.fn.openAccessibility.locale property in order to add your own language!
 
           
