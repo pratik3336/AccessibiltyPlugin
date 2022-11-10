@@ -1,7 +1,10 @@
 # AccessibiltyPlugin
  
 Aim - To design a Plugin that adds new functions to a host program without altering the host program itself. Also with the aim to improve the website’s accessibility overall also.
+
 Languages Used - HTML,CSS,JAVA,JAVASCRIPT,PHP
+
+
 
 This provides a plugin widget which becomes the go-to option for any accessibility functions to test and implement. It has 6 different features all in one option. It ensures that all of the potential users, including people with disabilities, have a decent user experience and are able to easily access their information and also improving the usability of the site for all users.
 Features - 
@@ -12,6 +15,7 @@ Features -
 (5) Greyscale the screen
 (6) Undo All Changes -Undo all changes applied on the website page
 
+
 How to install - (For drupal)
 1) Install module using composer or normal way
 2) Configure the settings for Open Accessibility
@@ -19,7 +23,10 @@ How to install - (For drupal)
 3) Provide permission for the access configuration page
 4) Place the Open Accessibility Block into your region.
 
+
 Use tools like - WordPress Migrate,Migrate Plus,Migrate Tools,CTools to make plugin work in other hosting sites like wordpress.
+
+
 
 
 Langual support - 
