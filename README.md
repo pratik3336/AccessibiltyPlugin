@@ -1,3 +1,7 @@
+This sitemap was developed in my internship in Indian Institute Of Technology Mumbai . The www.et.iitb.ac.in is the official website of the Educational Technology department at IIT Bombay. This website showcases multiple labs that facilitate research and development of Educational Technology.
+
+The ET IITB website shows the collaborative research and development work by Ph.D. research scholars in emerging technology areas, as well as showcases state-of-the-art infrastructure like Virtual Reality HMDs, 3D printers, physical computing devices and high-end workstations.
+
 # AccessibiltyPlugin
  
 Aim - To design a Plugin that adds new functions to THE ET IITB website without altering the host program itself. The aim is to improve the website’s accessibility overall. This helps in making website more customizable by for example -
